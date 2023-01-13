@@ -1,6 +1,6 @@
 # kevmo314/tinywhip
 
-A simple, lightweight WHIP/WHEP server. It accepts video as WHIP and publishes video as WHEP.
+A simple, lightweight [WHIP](https://datatracker.ietf.org/doc/html/draft-ietf-wish-whip)/[WHEP](https://www.ietf.org/id/draft-murillo-whep-01.html) server. It accepts video as WHIP and publishes video as WHEP.
 
 This server is intended to make testing and development of WHIP/WHEP clients easier as well as to provide a minimal, easy to understand and hack implementation of the protocol. It is not intended for production use.
 
