@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: kevmo314/tinywhip:;atest
+          tags: kevmo314/tinywhip:latest
